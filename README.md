@@ -1,3 +1,5 @@
+Hi, I'm Domenico! 👋
+
 I started programming when I realized that this enables me to shape my ideas. The given satisfaction whether building a web application with a beautiful user experience or solving out a difficult problem is my propellant.
 
 ✓ Experience in mainstream Web technologies including HTML5, CSS3, SASS, Styled-Components, JavaScript, Typescript, React & Redux, Python, PostgreSQL, Docker
