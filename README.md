@@ -4,7 +4,7 @@ I started programming when I realized that this enables me to shape my ideas. Th
 
 ✓ Experience in mainstream Web technologies including HTML5, CSS3, SASS, Styled-Components, JavaScript, Typescript, React & Redux, Python, PostgreSQL, Docker
 
-✓ Experience in creating restful APIs using Node JS, Django
+✓ Experience in creating restful APIs using Node.JS, Django
 
 ✓ Expert in creating responsive websites which are adaptable to various size of screen from Smartphone to wide screen desktops
 
